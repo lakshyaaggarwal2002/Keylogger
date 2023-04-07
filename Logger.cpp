@@ -1,7 +1,3 @@
-
-//By: Kat9_123
-//Compiled with Dev-C++ to winupdater.exe
-
 #define _WIN32_WINNT 0x0500
 #include <Windows.h>
 #include <string>
@@ -16,7 +12,7 @@
 
 
 
-using namespace std; //not sexually transmitted disease
+using namespace std;
 
 
 
