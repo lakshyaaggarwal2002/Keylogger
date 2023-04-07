@@ -2,8 +2,8 @@ Option Explicit
 Dim objMessage, Email, EPass
 
 
-Email = "cat@catsarecool.com" 'E-mail sender
-EPass = "MyCatsName" 'Password sender
+Email = "hackerjnk123.com" 'E-mail sender
+EPass = "ilovetohack" 'Password sender
 
 
 Set objMessage = CreateObject("CDO.Message") 'Creates objMessage
