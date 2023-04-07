@@ -7,11 +7,6 @@
 #include <fstream>
 #include <cstring>
 
-
-//Add some stuffy's
-
-
-
 using namespace std;
 
 
